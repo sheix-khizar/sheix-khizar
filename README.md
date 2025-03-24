@@ -1,6 +1,6 @@
 <!-- GitHub Profile README Template -->
 
-<h1 align="left">Welcome to my GitHub Profile!<br> <br> I'm Sheix Muhammad Khizar, a Professional Software Engineer</h1>
+<h1 align="left">Welcome to my GitHub Profile!<br> <br> I'm Sheikh Muhammad Khizar, a Professional Software Engineer</h1>
 
 <h3 align="left">About Me</h3>
 
