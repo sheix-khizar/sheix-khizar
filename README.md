@@ -217,6 +217,6 @@ I enjoy building AI products that solve real-world problems, from **AI voice ass
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sheix-khizar&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
