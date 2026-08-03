@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Sheikh Muhammad Khizar
 
-### 🚀 AI Full Stack Engineer | Software Engineer | Agentic AI Developer
+### 🚀 Full Stack Software Engineer | Agentic AI Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+Full+Stack+Engineer;Building+AI+Voice+Agents;Agentic+AI+%7C+RAG+%7C+LangGraph;FastAPI+%7C+React+%7C+TypeScript;Always+Learning+Something+New" />
 
