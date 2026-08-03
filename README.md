@@ -179,36 +179,6 @@ I enjoy building AI products that solve real-world problems, from **AI voice ass
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sheix-khizar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheix-khizar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheix-khizar&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sheix-khizar&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
