@@ -1,7 +1,7 @@
 <!--
     ============================================================
     ANIMATED & PROFESSIONAL GITHUB PROFILE
-    Sheikh Muhammad Khizar | AI Full Stack Engineer
+    Sheikh Muhammad Khizar | Full Stack AI Engineer
     ============================================================
 -->
 
