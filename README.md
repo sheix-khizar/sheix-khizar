@@ -220,7 +220,3 @@ I enjoy building AI products that solve real-world problems, from **AI voice ass
 <img src="https://komarev.com/ghpvc/?username=sheix-khizar&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
-
-
-
-"Can you make it more animated and more professional"
