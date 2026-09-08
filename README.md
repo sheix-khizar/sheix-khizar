@@ -225,8 +225,9 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
 ## 🏆 GitHub Trophies & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheix-khizar&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" width="90%" />
+  <img src="https://github-profile-trophy.vercelapp" alt="Trophies" width="90%" />
 </p>
+
 
 ---
 
