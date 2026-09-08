@@ -1,30 +1,31 @@
 <!--
-    ============================================================
-    ANIMATED & PROFESSIONAL GITHUB PROFILE
-    Sheikh Muhammad Khizar | AI Full Stack Engineer
-    ============================================================
+    =============================================================
+    ULTIMATE ANIMATED PROFILE | SHEIKH MUHAMMAD KHIZAR
+    AI Full Stack Engineer | Agentic AI Developer
+    =============================================================
 -->
 
+<!-- ANIMATED HEADER WITH WAVES & PARTICLES EFFECT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4&height=250&section=header&text=Sheikh%20Muhammad%20Khizar&fontSize=70&fontAlignY=35&animation=twinkling&desc=AI%20Full%20Stack%20%7C%20Agentic%20AI%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4&height=300&section=header&text=Sheikh%20Muhammad%20Khizar&fontSize=80&fontAlignY=35&animation=twinkling&desc=AI%20Full%20Stack%20%7C%20Agentic%20AI%20Developer&descAlignY=55&descSize=25&fontColor=FFFFFF" width="100%"/>
 </div>
 
-<!-- Animated Typing Effect -->
+<!-- ANIMATED GLITCH TEXT & TYPING EFFECT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Agentic+AI+%7C+RAG+%7C+LangGraph;AI+Voice+Agents+%7C+Multi-Agent+MCP;Full+Stack+%7C+React+%7C+Next.js+%7C+FastAPI;Always+Learning+%26+Innovating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Building+Intelligent+Systems;Agentic+AI+%7C+RAG+%7C+LangGraph;AI+Voice+Agents+%7C+Multi-Agent+MCP;Full+Stack+%7C+React+%7C+Next.js+%7C+FastAPI;Always+Learning+%26+Innovating" alt="Typing SVG" />
 </h1>
 
-<!-- Animated Social & Profile Badges -->
+<!-- ANIMATED SOCIAL & PROFILE BADGES WITH GLOW EFFECT -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Full%20Stack-Engineer-00C2FF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-Developer-FF6B6B?style=for-the-badge&logo=ai&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-4CAF50?style=for-the-badge&logo=check&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AI%20Full%20Stack-Engineer-00C2FF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0D1117&color=00C2FF" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Developer-FF6B6B?style=for-the-badge&logo=ai&logoColor=white&labelColor=0D1117&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-4CAF50?style=for-the-badge&logo=check&logoColor=white&labelColor=0D1117&color=4CAF50" />
   <img src="https://komarev.com/ghpvc/?username=sheix-khizar&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </p>
 
 <br/>
 
-<!-- Animated Social Links -->
+<!-- ANIMATED SOCIAL LINKS WITH HOVER EFFECT -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sheikh-muhammad-khizar-214b532aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
@@ -38,24 +39,27 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0D1117" />
   </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<!-- Animated GIF or Lottie (Replace with your own) -->
-<img align="right" alt="Coding Animation" width="380" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<!-- ANIMATED CODING GIF (Replace with your own) -->
+<img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
-I'm an **AI Full Stack Engineer** passionate about designing and building intelligent systems that solve real-world problems. My expertise lies in bridging the gap between cutting-edge **Large Language Models (LLMs)** and production-ready, scalable web applications.
+I'm an **AI Full Stack Engineer** with a passion for building intelligent systems that bridge the gap between cutting-edge AI research and production-ready applications. I specialize in creating **Agentic AI**, **RAG-powered solutions**, and **Voice AI** that adapt and evolve.
 
 ### 🎯 Current Focus
 
--   🤖 **AI Voice Agents & Intelligent Assistants** for seamless human-computer interaction.
--   🧠 **Multi-Agent Systems** using **LangGraph** and **MCP** for complex task automation.
--   🔍 **RAG-powered Applications** with advanced retrieval and context management.
--   ⚡ **Full Stack Development** with **React, Next.js & FastAPI** for robust, high-performance apps.
--   ☁️ **Cloud-Native AI** deployment, scaling, and MLOps on **AWS, Docker, and Vercel**.
+- 🤖 **AI Voice Agents & Intelligent Assistants** for seamless human-computer interaction.
+- 🧠 **Multi-Agent Systems** using **LangGraph** and **MCP** for complex task automation.
+- 🔍 **RAG-powered Applications** with advanced retrieval and context management.
+- ⚡ **Full Stack Development** with **React, Next.js & FastAPI** for robust, high-performance apps.
+- ☁️ **Cloud-Native AI** deployment, scaling, and MLOps on **AWS, Docker, and Vercel**.
 
 ### 💡 Philosophy
 
@@ -65,7 +69,7 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
 
 ## 🛠️ Technology Arsenal
 
-<!-- Animated & Categorized Tech Stack -->
+<!-- ANIMATED TECH STACK CARDS -->
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -148,7 +152,7 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
 
 ## 🌟 Featured Projects
 
-<!-- Detailed Project Cards with Animated Borders/Effects -->
+<!-- ANIMATED PROJECT CARDS WITH BORDER GLOW -->
 <table align="center">
   <tr>
     <td width="50%">
@@ -204,7 +208,7 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
 
 ## 📊 GitHub Analytics & Contribution
 
-<!-- Enhanced Stats Cards with Animations -->
+<!-- ANIMATED STATS CARDS -->
 <p align="center">
   <a href="https://github.com/sheix-khizar">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheix-khizar&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&include_all_commits=true&custom_title=My%20GitHub%20Stats" />
@@ -212,6 +216,7 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
   </a>
 </p>
 
+<!-- ANIMATED STREAK & CONTRIBUTION GRAPH -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheix-khizar&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=00C2FF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="80%" />
 </p>
@@ -254,7 +259,7 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4&height=150&section=footer" width="100%"/>
   <br>
   <img src="https://img.shields.io/badge/Made_with_❤️_by-Sheikh_Muhammad_Khizar-00C2FF?style=for-the-badge&labelColor=0D1117" />
   <br><br>
