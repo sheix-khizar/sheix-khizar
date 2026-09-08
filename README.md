@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/AI%20Full%20Stack-Engineer-00C2FF?style=for-the-badge&logo=ai&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Agentic%20AI-Developer-FF6B6B?style=for-the-badge&logo=ai&logoColor=white&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Open%20to-Work-4CAF50?style=for-the-badge&logo=check&logoColor=white&labelColor=0D1117" />
-  <img src="https://komarev.com/ghpvc/?username=sheix-khizar&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </p>
 
 <br/>
@@ -39,6 +38,10 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
+
+<br>
+  <img src="https://komarev.com/ghpvc/?username=sheix-khizar&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+</br>
 
 ---
 
