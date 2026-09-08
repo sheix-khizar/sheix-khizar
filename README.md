@@ -202,7 +202,7 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
 
 ---
 
-## 📊 GitHub Analytics & Contribution
+## 📊 GitHub Analytics
 
 <!-- Enhanced Stats Cards with Animations -->
 <!-- <p align="center">
