@@ -205,19 +205,15 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
 ## 📊 GitHub Analytics & Contribution
 
 <!-- Enhanced Stats Cards with Animations -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/sheix-khizar">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheix-khizar&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&include_all_commits=true&custom_title=My%20GitHub%20Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheix-khizar&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&langs_count=8&hide=HTML,CSS" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheix-khizar&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=00C2FF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheix-khizar&theme=tokyo-night&hide_border=true&area=true&area_color=00C2FF&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%" />
 </p>
 
 ---
