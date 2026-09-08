@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4&height=250&section=header&text=Sheikh%20Muhammad%20Khizar&fontSize=70&fontAlignY=35&animation=twinkling&desc=AI%20Full%20Stack%20%7C%20Agentic%20AI%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4&height=250&section=header&text=Sheikh%20Muhammad%20Khizar&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20AI%20%7C%20Engineer%20&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <!-- Animated Typing Effect -->
