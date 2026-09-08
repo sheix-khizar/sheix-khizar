@@ -163,9 +163,9 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🕌 Islamic AI Assistant</h3>
-      <p align="center"><strong>Voice-enabled RAG-based Islamic Assistant</strong></p>
-      <p align="center">Provides answers on Islamic knowledge with citations, using advanced retrieval and generation.</p>
+      <h3 align="center">📁 NoCodeTools.site </h3>
+      <p align="center"><strong>Directory for discovering and exploring 300+ No-Code and AI tools</strong></p>
+      <p align="center">A complete, production-level MERN stack project for no-code tool discovery and directory with clean architecture, optimized SEO, secure admin functionality, and a professional, responsive UI.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -176,9 +176,9 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🛍️ VisionCommerce AI</h3>
-      <p align="center"><strong>Generate complete eCommerce listings from product videos</strong></p>
-      <p align="center">Uses computer vision and LLMs to auto-generate titles, descriptions, and tags from product media.</p>
+      <h3 align="center">🔒  ShieldScan AI</h3>
+      <p align="center"><strong>AI Content Moderation Platform</strong></p>
+      <p align="center">Users submit images for automated policy compliance screening; administrators oversee verdicts, manage appeals, configure moderation policies per category, and monitor platform-wide analytics.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=flat-square&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
