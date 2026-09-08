@@ -148,55 +148,63 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
 
 ## 🌟 Featured Projects
 
-<!-- Detailed Project Cards with Animated Borders/Effects -->
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">🎙️ Talkse AI</h3>
+      <h3 align="center">🎙️ Talkse</h3>
       <p align="center"><strong>Multi-tenant AI Voice Receptionist for Aesthetic Clinics</strong></p>
       <p align="center">Real-time calls, appointment booking, human handoff, and AI-powered conversation management.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🕌 Islamic AI Assistant</h3>
-      <p align="center"><strong>Voice-enabled RAG-based Islamic Assistant</strong></p>
-      <p align="center">Provides answers on Islamic knowledge with citations, using advanced retrieval and generation.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vector_DB-7B68EE?style=flat-square&logo=vector&logoColor=white" />
-      </p>
-    </td>
+
+```
+<td width="50%">
+  <h3 align="center">🛡️ ContentMod / ShieldScan</h3>
+  <p align="center"><strong>AI-Powered Content Moderation Platform</strong></p>
+  <p align="center">AI-assisted image moderation with review workflows, appeals, policies, and analytics.</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude_Vision-8E44AD?style=flat-square" />
+  </p>
+</td>
+```
+
   </tr>
+
   <tr>
     <td width="50%">
       <h3 align="center">🛍️ VisionCommerce AI</h3>
-      <p align="center"><strong>Generate complete eCommerce listings from product videos</strong></p>
-      <p align="center">Uses computer vision and LLMs to auto-generate titles, descriptions, and tags from product media.</p>
+      <p align="center"><strong>AI-Powered eCommerce Content Generation</strong></p>
+      <p align="center">Generate eCommerce product content from product videos using AI and computer vision.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=flat-square" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🧸 KidsKo</h3>
-      <p align="center"><strong>AI-Powered Voice Learning Companion for Children</strong></p>
-      <p align="center">Interactive, engaging, and personalized educational conversations through natural voice interaction.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI_Voice-2ECC71?style=flat-square&logo=ai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
+
+```
+<td width="50%">
+  <h3 align="center">🧸 KidsKo</h3>
+  <p align="center"><strong>AI-Powered Voice Learning Companion for Children</strong></p>
+  <p align="center">Interactive and personalized educational conversations through natural voice interaction.</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/AI_Voice-2ECC71?style=flat-square" />
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  </p>
+</td>
+```
+
   </tr>
 </table>
 
