@@ -225,7 +225,7 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
 ## 🏆 GitHub Trophies & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercelapp" alt="Trophies" width="90%" />
+  <img src="https://github-trophies.vercelapp" alt="Trophies" width="90%" />
 </p>
 
 
