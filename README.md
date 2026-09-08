@@ -1,222 +1,287 @@
-<!-- ============================================================ -->
-<!--                GitHub Profile README                          -->
-<!--            Sheikh Muhammad Khizar | AI Engineer               -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 # 👋 Hi, I'm Sheikh Muhammad Khizar
 
-### 🚀 Full Stack Software Engineer | Agentic AI Developer
+### AI Full Stack Engineer · Agentic AI Developer · Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+Full+Stack+Engineer;Building+AI+Voice+Agents;Agentic+AI+%7C+RAG+%7C+LangGraph;FastAPI+%7C+React+%7C+TypeScript;Always+Learning+Something+New" />
+<a href="https://github.com/sheix-khizar">
+  <img src="https://komarev.com/ghpvc/?username=sheix-khizar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
 
-<br>
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Applications;AI+Voice+Agents+%7C+RAG+%7C+Agentic+AI;Full+Stack+%7C+FastAPI+%7C+React+%7C+TypeScript;Designing+Real-World+AI+Products;Always+Building.+Always+Learning." alt="Typing SVG"/>
+
+<br/>
 
 <a href="mailto:sheikhmuhammadkhizar@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/sheikh-muhammad-khizar-214b532aa/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+&nbsp;
+<a href="https://github.com/sheix-khizar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🧠 About Me
 
-I'm an **AI Full Stack Engineer** passionate about designing intelligent software powered by **Large Language Models (LLMs)**, **Agentic AI**, and modern cloud technologies.
+I'm an **AI Full Stack Engineer** focused on building intelligent, scalable, and production-oriented software using **Generative AI, LLMs, Agentic AI, and modern web technologies**.
 
-I enjoy building AI products that solve real-world problems, from **AI voice assistants** and **multi-agent systems** to **RAG-powered applications** and scalable web platforms.
+I enjoy turning ideas into working products — from **real-time AI voice agents** and **RAG systems** to full-stack SaaS platforms and AI-powered developer tools.
 
-- 🤖 Building AI Voice Agents & AI Assistants
-- 🧠 Specialized in Agentic AI, RAG & LangGraph
-- ⚡ Developing scalable Full Stack Applications
-- 📚 Exploring MCP & Multi-Agent Systems
-- ☁️ Deploying cloud-native AI applications
-- 🌍 Open to AI & Software Engineering opportunities
-- 🚀 Goal: Build AI products used by millions
+```text
+AI Engineering
+     │
+     ├── Generative AI
+     ├── Agentic AI
+     ├── RAG & LLM Applications
+     ├── AI Voice Agents
+     └── Multi-Agent Systems
+            │
+            ▼
+     Full Stack Engineering
+            │
+     ├── React / Next.js
+     ├── FastAPI / Node.js
+     ├── PostgreSQL / MongoDB
+     └── Cloud & DevOps
+```
+
+### 🚀 What I Build
+
+* 🤖 **AI Agents & LLM Applications**
+* 🎙️ **Real-Time AI Voice Agents**
+* 🧠 **RAG & Knowledge-Based Systems**
+* 🔗 **Agentic Workflows & Tool Calling**
+* ⚡ **Full Stack Web Applications**
+* 🏗️ **AI SaaS Products**
+* ☁️ **Cloud-Native Applications**
+* 🔌 **API & Real-Time WebSocket Systems**
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Technology Stack
 
-## 🤖 AI & LLM
+### 🤖 AI / LLM Engineering
 
 <p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/LangGraph-0055FF?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Vector_Database-7B68EE?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-009688?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/AI_Agents-2ECC71?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/MCP-8E44AD?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Function_Calling-E91E63?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Tool_Calling-FF5722?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-16A085?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C7ED6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-8E44AD?style=for-the-badge"/>
 </p>
 
----
-
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
----
-
-## ⚙️ Backend
+### ⚙️ Backend & APIs
 
 <p>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express"/>
-
-<img src="https://img.shields.io/badge/REST_API-FF9800?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-4353FF?style=for-the-badge"/>
 </p>
 
----
-
-## 🗄️ Database
+### 🗄️ Databases
 
 <p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/>
-
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
----
-
-## ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Tools
 
 <p>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"/>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman"/>
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma"/>
-
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎙 **Talkse AI** | AI Voice Receptionist for Aesthetic Clinics |
-| 🤖 **Islamic AI Assistant** | Voice-enabled RAG-based Islamic Assistant |
-| 🛍 **VisionCommerce AI** | Generate complete eCommerce listings from product videos |
-| 💄 **AI Clinic Assistant** | Multi-tenant AI receptionist with RAG |
-| 🌐 **Portfolio Website** | Modern portfolio showcasing AI & Full Stack projects |
+### 🎙️ Talkse — AI Voice Receptionist
+
+**AI-powered voice receptionist designed for aesthetic clinics.**
+
+Built around conversational AI and real-time voice communication to automate receptionist workflows and provide intelligent caller interactions.
+
+**Focus:** `AI Voice Agents` · `LLMs` · `RAG` · `Real-Time Communication`
+
+🔗 **[View Repository](https://github.com/sheix-khizar/Talkse)**
 
 ---
 
-# 📈 Contribution Graph
+### 👨‍👩‍👧 KidsKo — AI Voice Learning Companion
+
+**AI-powered voice learning companion designed for children.**
+
+KidsKo aims to provide interactive educational conversations through natural voice interaction and generative AI.
+
+**Status:** 🚧 Under Active Development
+
+**Focus:** `Voice AI` · `Generative AI` · `Mobile AI` · `Educational Technology`
+
+🔗 **[View Repository](https://github.com/sheix-khizar/KidsKo)**
+
+---
+
+### 🛍️ VisionCommerce AI
+
+**AI-powered eCommerce content generation concept for businesses.**
+
+The project explores how AI can transform product media into structured eCommerce content and marketing assets.
+
+**Focus:** `Computer Vision` · `Generative AI` · `eCommerce` · `AI Automation`
+
+---
+
+### 🛡️ ContentMod
+
+**AI-powered content moderation platform for automated image screening and moderation workflows.**
+
+The platform explores AI-assisted content classification with moderation management and review workflows.
+
+**Focus:** `AI` · `Computer Vision` · `Content Moderation` · `Full Stack`
+
+🔗 **[View Repository](https://github.com/sheix-khizar/content-mod-platform)**
+
+---
+
+### 🧰 NoCodeTools.site
+
+**Directory platform for discovering No-Code and AI tools.**
+
+A full-stack web platform featuring tool discovery, search, categories, filtering, and administrative management.
+
+**Status:** 🔒 Private / Portfolio Project
+
+**Focus:** `MERN` · `AI Tools` · `No-Code` · `SEO` · `Full Stack`
+
+---
+
+### 🔊 Text-to-Speech Web App
+
+**Full-stack web application for converting text into natural speech.**
+
+Includes voice selection, speech customization, playback controls, and audio functionality.
+
+**Focus:** `JavaScript` · `Node.js` · `Express.js` · `Web Speech API`
+
+🔗 **[View Repository](https://github.com/sheix-khizar/Text-to-Speech-Web-App)**
+
+---
+
+### 🧩 AnyMod
+
+**Concept for an AI-powered developer assistant designed around intelligent coding workflows.**
+
+The project is currently focused on product ideation, requirements, and architecture.
+
+**Status:** 💡 Concept / Architecture Stage
+
+**Focus:** `Agentic AI` · `Developer Tools` · `LLMs` · `AI Coding`
+
+🔗 **[View Repository](https://github.com/sheix-khizar/AnyMod)**
+
+---
+
+# 🧪 Currently Exploring
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  🧠 Agentic AI          🤖 Multi-Agent Systems           │
+│                                                          │
+│  🔗 MCP                 🎙️ Real-Time Voice AI           │
+│                                                          │
+│  📚 Advanced RAG        ⚡ LLM Applications              │
+│                                                          │
+│  ☁️ AI Infrastructure   🏗️ Scalable AI Systems           │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheix-khizar&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheix-khizar&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 💡 Engineering Philosophy
 
-<p align="center">
+> **Build useful things. Understand how they work. Keep improving them.**
+
+I believe good software is more than writing code.
+
+It is about:
+
+**Problem → Architecture → Implementation → Testing → Deployment → Improvement**
+
+My goal is to continuously turn ideas into **reliable, intelligent, and scalable software products**.
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
 
 <a href="mailto:sheikhmuhammadkhizar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sheikh-muhammad-khizar-214b532aa/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sheix-khizar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- <a href="https://YOUR_PORTFOLIO.com"> -->
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### 🚀 Building the future with AI, one project at a time.
 
-<img src="https://komarev.com/ghpvc/?username=sheix-khizar&label=Profile+Views&color=0e75b6&style=flat"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sheix-khizar&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
