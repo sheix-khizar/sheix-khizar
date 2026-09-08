@@ -166,12 +166,12 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
       <h3 align="center">📁 NoCodeTools.site </h3>
       <p align="center"><strong>Directory for discovering and exploring 300+ No-Code and AI tools</strong></p>
       <p align="center">Production-level MERN stack project for no-code tool discovery with secure admin functionality, and responsive UI.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vector_DB-7B68EE?style=flat-square&logo=vector&logoColor=white" />
-      </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
     </td>
   </tr>
   <tr>
