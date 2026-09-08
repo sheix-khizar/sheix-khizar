@@ -55,7 +55,7 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 I'm an **AI Full Stack Engineer** focused on designing and building intelligent software systems that solve real-world problems.
 
@@ -63,13 +63,13 @@ My work combines **Generative AI, Large Language Models, Agentic AI, RAG, AI Voi
 
 ### 🎯 Current Focus
 
-* 🤖 **AI Voice Agents & Intelligent Assistants**
-* 🧠 **Agentic AI & Multi-Agent Systems**
-* 🔗 **LangChain, LangGraph & MCP**
-* 🔍 **RAG-powered Applications & LLM Integration**
-* ⚡ **Real-Time AI Applications & WebSockets**
-* 🌐 **React, Next.js, FastAPI & Node.js**
-* ☁️ **Cloud Deployment with AWS, Docker & Vercel**
+- 🤖 **AI Voice Agents & Intelligent Assistants**
+- 🧠 **Agentic AI & Multi-Agent Systems**
+- 🔗 **LangChain, LangGraph & MCP**
+- 🔍 **RAG-powered Applications & LLM Integration**
+- ⚡ **Real-Time AI Applications & WebSockets**
+- 🌐 **React, Next.js, FastAPI & Node.js**
+- ☁️ **Cloud Deployment with AWS, Docker & Vercel**
 
 ### 💡 Engineering Philosophy
 
@@ -85,73 +85,69 @@ My work combines **Generative AI, Large Language Models, Agentic AI, RAG, AI Voi
 
   <tr>
 
-```
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-  <br><b>Python</b>
-</td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br><b>Python</b>
+    </td>
 
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-  <br><b>TypeScript</b>
-</td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+      <br><b>TypeScript</b>
+    </td>
 
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-  <br><b>React</b>
-</td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br><b>React</b>
+    </td>
 
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-  <br><b>AWS</b>
-</td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+      <br><b>AWS</b>
+    </td>
 
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-  <br><b>Docker</b>
-</td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+      <br><b>Docker</b>
+    </td>
 
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" />
-  <br><b>Nginx</b>
-</td>
-```
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" />
+      <br><b>Nginx</b>
+    </td>
 
   </tr>
 
   <tr>
 
-```
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-  <br><b>GitHub</b>
-</td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+      <br><b>GitHub</b>
+    </td>
 
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-  <br><b>MySQL</b>
-</td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      <br><b>MySQL</b>
+    </td>
 
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-  <br><b>REST APIs</b>
-</td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
+      <br><b>REST APIs</b>
+    </td>
 
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/vercel-icon.svg" alt="Vercel" width="48" height="48" />
-  <br><b>Vercel</b>
-</td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/vercel-icon.svg" alt="Vercel" width="48" height="48" />
+      <br><b>Vercel</b>
+    </td>
 
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
-  <br><b>Prettier</b>
-</td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
+      <br><b>Prettier</b>
+    </td>
 
-<td align="center" width="110">
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
-  <br><b>Sass</b>
-</td>
-```
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
+      <br><b>Sass</b>
+    </td>
 
   </tr>
 
@@ -237,235 +233,229 @@ My work combines **Generative AI, Large Language Models, Agentic AI, RAG, AI Voi
 
   <tr>
 
-```
-<!-- Talkse -->
+    <!-- Talkse -->
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-  <h3 align="center">🎙️ Talkse</h3>
+      <h3 align="center">🎙️ Talkse</h3>
 
-  <p align="center">
-    <strong>Multi-Tenant AI Voice Receptionist</strong>
-  </p>
+      <p align="center">
+        <strong>Multi-Tenant AI Voice Receptionist</strong>
+      </p>
 
-  <p align="center">
-    AI-powered voice receptionist platform for aesthetic clinics with real-time conversations, appointment workflows, FAQs, and human handoff.
-  </p>
+      <p align="center">
+        AI-powered voice receptionist platform for aesthetic clinics with real-time conversations, appointment workflows, FAQs, and human handoff.
+      </p>
 
-  <p align="center">
+      <p align="center">
 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/Deepgram-101828?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deepgram-101828?style=flat-square" />
 
-    <img src="https://img.shields.io/badge/Telnyx-00AEEF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Telnyx-00AEEF?style=flat-square" />
 
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 
-  </p>
+      </p>
 
-  <p align="center">
-    <a href="https://github.com/sheix-khizar/Talkse">
-      <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+      <p align="center">
+        <a href="https://github.com/sheix-khizar/Talkse">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
 
-</td>
+    </td>
 
-<!-- ContentMod -->
+    <!-- ContentMod -->
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-  <h3 align="center">🛡️ ContentMod / ShieldScan</h3>
+      <h3 align="center">🛡️ ContentMod / ShieldScan</h3>
 
-  <p align="center">
-    <strong>AI-Powered Content Moderation Platform</strong>
-  </p>
+      <p align="center">
+        <strong>AI-Powered Content Moderation Platform</strong>
+      </p>
 
-  <p align="center">
-    Full-stack AI content moderation platform for image screening, moderation workflows, policy management, appeals, and analytics.
-  </p>
+      <p align="center">
+        Full-stack AI content moderation platform for image screening, moderation workflows, policy management, appeals, and analytics.
+      </p>
 
-  <p align="center">
+      <p align="center">
 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/Claude%20Vision-8E44AD?style=flat-square" />
+        <img src="https://img.shields.io/badge/Claude%20Vision-8E44AD?style=flat-square" />
 
-  </p>
+      </p>
 
-  <p align="center">
-    <a href="https://github.com/sheix-khizar/content-mod-platform">
-      <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+      <p align="center">
+        <a href="https://github.com/sheix-khizar/content-mod-platform">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
 
-</td>
-```
+    </td>
 
   </tr>
 
   <tr>
 
-```
-<!-- VisionCommerce -->
+    <!-- VisionCommerce -->
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-  <h3 align="center">🛍️ VisionCommerce AI</h3>
+      <h3 align="center">🛍️ VisionCommerce AI</h3>
 
-  <p align="center">
-    <strong>AI-Powered eCommerce Content Generation</strong>
-  </p>
+      <p align="center">
+        <strong>AI-Powered eCommerce Content Generation</strong>
+      </p>
 
-  <p align="center">
-    AI-powered product content generation concept designed to transform product media into eCommerce-ready content.
-  </p>
+      <p align="center">
+        AI-powered product content generation concept designed to transform product media into eCommerce-ready content.
+      </p>
 
-  <p align="center">
+      <p align="center">
 
-    <img src="https://img.shields.io/badge/AI-00C2FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-00C2FF?style=flat-square" />
 
-    <img src="https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=flat-square" />
 
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
-    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 
-  </p>
+      </p>
 
-</td>
+    </td>
 
-<!-- KidsKo -->
+    <!-- KidsKo -->
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-  <h3 align="center">🧸 KidsKo</h3>
+      <h3 align="center">🧸 KidsKo</h3>
 
-  <p align="center">
-    <strong>AI-Powered Voice Learning Companion</strong>
-  </p>
+      <p align="center">
+        <strong>AI-Powered Voice Learning Companion</strong>
+      </p>
 
-  <p align="center">
-    Voice-first AI learning companion designed to provide interactive and personalized educational conversations for children.
-  </p>
+      <p align="center">
+        Voice-first AI learning companion designed to provide interactive and personalized educational conversations for children.
+      </p>
 
-  <p align="center">
+      <p align="center">
 
-    <img src="https://img.shields.io/badge/AI%20Voice-2ECC71?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Voice-2ECC71?style=flat-square" />
 
-    <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
-    <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
-  </p>
+      </p>
 
-  <p align="center">
+      <p align="center">
 
-    <a href="https://github.com/sheix-khizar/KidsKo">
-      <img src="https://img.shields.io/badge/Under%20Development-FFB000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+        <a href="https://github.com/sheix-khizar/KidsKo">
+          <img src="https://img.shields.io/badge/Under%20Development-FFB000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
 
-  </p>
+      </p>
 
-</td>
-```
+    </td>
 
   </tr>
 
   <tr>
 
-```
-<!-- Text to Speech -->
+    <!-- Text to Speech -->
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-  <h3 align="center">🔊 Text-to-Speech Web App</h3>
+      <h3 align="center">🔊 Text-to-Speech Web App</h3>
 
-  <p align="center">
-    <strong>Full-Stack Text-to-Speech Application</strong>
-  </p>
+      <p align="center">
+        <strong>Full-Stack Text-to-Speech Application</strong>
+      </p>
 
-  <p align="center">
-    Web-based text-to-speech application with voice selection, speech controls, audio playback, and responsive UI.
-  </p>
+      <p align="center">
+        Web-based text-to-speech application with voice selection, speech controls, audio playback, and responsive UI.
+      </p>
 
-  <p align="center">
+      <p align="center">
 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square" />
+        <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square" />
 
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-  </p>
+      </p>
 
-  <p align="center">
-    <a href="https://github.com/sheix-khizar/Text-to-Speech-Web-App">
-      <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+      <p align="center">
+        <a href="https://github.com/sheix-khizar/Text-to-Speech-Web-App">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
 
-</td>
+    </td>
 
-<!-- AnyMod -->
+    <!-- AnyMod -->
 
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
-  <h3 align="center">🧩 AnyMod</h3>
+      <h3 align="center">🧩 AnyMod</h3>
 
-  <p align="center">
-    <strong>AI-Powered Developer Assistant Concept</strong>
-  </p>
+      <p align="center">
+        <strong>AI-Powered Developer Assistant Concept</strong>
+      </p>
 
-  <p align="center">
-    Concept and architecture for an AI-powered developer assistant focused on intelligent coding workflows and AI-assisted development.
-  </p>
+      <p align="center">
+        Concept and architecture for an AI-powered developer assistant focused on intelligent coding workflows and AI-assisted development.
+      </p>
 
-  <p align="center">
+      <p align="center">
 
-    <img src="https://img.shields.io/badge/AI-00C2FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-00C2FF?style=flat-square" />
 
-    <img src="https://img.shields.io/badge/Agentic%20AI-8E44AD?style=flat-square" />
+        <img src="https://img.shields.io/badge/Agentic%20AI-8E44AD?style=flat-square" />
 
-    <img src="https://img.shields.io/badge/LLM-412991?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLM-412991?style=flat-square" />
 
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
-  </p>
+      </p>
 
-  <p align="center">
+      <p align="center">
 
-    <a href="https://github.com/sheix-khizar/AnyMod">
-      <img src="https://img.shields.io/badge/Concept%20Stage-8E44AD?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+        <a href="https://github.com/sheix-khizar/AnyMod">
+          <img src="https://img.shields.io/badge/Concept%20Stage-8E44AD?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
 
-  </p>
+      </p>
 
-</td>
-```
+    </td>
 
   </tr>
 
@@ -497,11 +487,9 @@ My work combines **Generative AI, Large Language Models, Agentic AI, RAG, AI Voi
 
   <a href="https://github.com/sheix-khizar">
 
-```
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheix-khizar&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&include_all_commits=true&custom_title=GitHub%20Statistics" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheix-khizar&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&include_all_commits=true&custom_title=GitHub%20Statistics" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheix-khizar&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&langs_count=8&hide=HTML,CSS" />
-```
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheix-khizar&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&langs_count=8&hide=HTML,CSS" />
 
   </a>
 
@@ -547,64 +535,3 @@ My work combines **Generative AI, Large Language Models, Agentic AI, RAG, AI Voi
       DEPLOY
          ↓
       IMPROVE
-```
-
-### Build systems. Solve problems. Keep learning.
-
-</div>
-
-I believe strong software engineering is about more than writing code.
-
-It's about understanding the problem, designing reliable systems, choosing the right technologies, and continuously improving the product.
-
-My goal is to build **AI-powered software that is useful, scalable, and production-oriented**.
-
----
-
-# 🌱 What I'm Working Toward
-
-* 🤖 Building production-grade AI applications
-* 🧠 Designing intelligent agentic systems
-* 🎙️ Developing real-time AI voice experiences
-* 🔍 Improving RAG and LLM architectures
-* 🔗 Exploring MCP and tool-based AI systems
-* ☁️ Strengthening cloud and backend engineering
-* 🚀 Turning product ideas into real-world software
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/sheikh-muhammad-khizar-214b532aa/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-  </a>
-
-  <a href="mailto:sheikhmuhammadkhizar@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-  </a>
-
-  <a href="https://github.com/sheix-khizar">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  </a>
-
-</p>
-
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4&height=120&section=footer" width="100%"/>
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Built_with_❤️_and_AI-Sheikh_Muhammad_Khizar-00C2FF?style=for-the-badge&labelColor=0D1117" />
-
-<br><br>
-
-  <p>
-    <i>“The best way to predict the future is to build it.”</i>
-  </p>
-
-</div>
