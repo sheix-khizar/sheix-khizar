@@ -191,10 +191,10 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
       <p align="center"><strong>AI-Powered Voice Learning Companion for Children</strong></p>
       <p align="center">Interactive, engaging, and personalized educational conversations through natural voice interaction.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/AI_Voice-2ECC71?style=flat-square&logo=ai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
     </td>
   </tr>
