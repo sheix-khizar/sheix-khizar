@@ -222,19 +222,6 @@ I'm an **AI Full Stack Engineer** passionate about designing and building intell
 
 ---
 
-## 🏆 GitHub Trophies & Badges
-
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-
----
-
 ## 📫 Let's Connect & Collaborate
 
 <p align="center">
